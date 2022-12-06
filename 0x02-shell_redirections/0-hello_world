@@ -1,2 +1,2 @@
 !#/bin/bash
-mkdir Hello, World/tmp/h$
+echo "Hello, Wolrd"
