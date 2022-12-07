@@ -1,1 +1,1 @@
-Write a script that displays a third line of the file iact
+It is a good file that cuts iron without making a noise
