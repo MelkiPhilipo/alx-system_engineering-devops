@@ -1,0 +1,16 @@
+total 0
+drwxr-xr-x 1 melkiphilipo melkiphilipo 512 Jun 12 22:50 .
+drwxr-xr-x 1 melkiphilipo melkiphilipo 512 Jun 12 15:18 ..
+-rwxr--r-- 1 melkiphilipo melkiphilipo  32 Jun 12 15:39 0-hello_world
+-rwxr--r-- 1 melkiphilipo melkiphilipo  28 Jun 12 16:15 1-confused_smiley
+-rwxr--r-- 1 melkiphilipo melkiphilipo  28 Jun 12 16:29 2-hellofile
+-rwxr--r-- 1 melkiphilipo melkiphilipo  39 Jun 12 16:35 3-twofiles
+-rwxr--r-- 1 melkiphilipo melkiphilipo  35 Jun 12 16:55 4-lastlines
+-rwxr--r-- 1 melkiphilipo melkiphilipo  35 Jun 12 16:59 5-firstlines
+-rwxr--r-- 1 melkiphilipo melkiphilipo  36 Jun 12 17:42 6-third_line
+-rwxr--r-- 1 melkiphilipo melkiphilipo  98 Jun 12 21:49 7-file
+-rwxr--r-- 1 melkiphilipo melkiphilipo  36 Jun 12 22:49 8-cwd_state
+-rw-r--r-- 1 melkiphilipo melkiphilipo  42 Jun 12 16:21 READEME.md
+-rw-r--r-- 1 melkiphilipo melkiphilipo  94 Jun 12 15:41 README.md
+-rw-r--r-- 1 melkiphilipo melkiphilipo  12 Jun 12 21:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 melkiphilipo melkiphilipo   0 Jun 12 22:50 ls_cwd_content
